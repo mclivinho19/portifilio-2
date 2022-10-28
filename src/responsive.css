@@ -1,0 +1,8 @@
+@media screen and (win-width: 500px) {
+    body {
+        background-color: blue;
+    }
+
+    #leftsidebar {width: 150px; float: left;}
+    main { margin-left: 200px;}
+}
